@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/sjones6/gun-mongo#readme",
   "dependencies": {
-    "gun-flint": "^0.0",
-    "mongojs": "^2.4.0"
+    "@gooddollarcommons/gun-flint": "^0.3.1",
+    "mongojs": "^3.1.0"
   }
 }
