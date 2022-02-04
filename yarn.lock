@@ -107,15 +107,6 @@
     "@babel/helper-validator-identifier" "^7.16.7"
     to-fast-properties "^2.0.0"
 
-"@gooddollarcommons/gun-flint@^0.3.1":
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/@gooddollarcommons/gun-flint/-/gun-flint-0.3.1.tgz#9ddf2a9a5147b8f7fe2d02e48665c1955169fb3f"
-  integrity sha512-C7M8JQvZPeHu4kFfALvyc8W0CuArQBSgPxewIJOuduTfJeRtHesZYzDOx/9eaW1bdeT1wmQwmy2C9JVSPF3zew==
-  dependencies:
-    babel-runtime "^6.11.6"
-    minimist "^1.2.0"
-    mocha "^3.0.0"
-
 ansi-regex@^4.1.0:
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/ansi-regex/-/ansi-regex-4.1.0.tgz#8b9f8f08cf1acb843756a839ca8c7e3168c51997"
@@ -434,6 +425,15 @@ growl@1.9.2:
   version "1.9.2"
   resolved "https://registry.yarnpkg.com/growl/-/growl-1.9.2.tgz#0ea7743715db8d8de2c5ede1775e1b45ac85c02f"
   integrity sha1-Dqd0NxXbjY3ixe3hd14bRayFwC8=
+
+gun-flint@^0.0.28:
+  version "0.0.28"
+  resolved "https://registry.yarnpkg.com/gun-flint/-/gun-flint-0.0.28.tgz#844ab82b5de6170e0dc188e2029e434390809e6a"
+  integrity sha512-VIcqE/UaxlAU9OIuEwHM29VJKA7HOs5vBDxqul2ppU37xMeIqf9W9YPdqbJpFkWYVdCgM7aRAbAbLdc15rUa0A==
+  dependencies:
+    babel-runtime "^6.11.6"
+    minimist "^1.2.0"
+    mocha "^3.0.0"
 
 has-flag@^1.0.0:
   version "1.0.0"
